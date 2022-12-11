@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe50a74-cd33-42a4-96db-c21fd9fd0bf0" name="Changes" comment="Exercicio01">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="5fe50a74-cd33-42a4-96db-c21fd9fd0bf0" name="Changes" comment="Exercicios Resolvidos Parte 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670770127447</updated>
-      <workItem from="1670770128739" duration="8147000" />
+      <workItem from="1670770128739" duration="8478000" />
     </task>
     <task id="LOCAL-00001" summary="Exercicio01">
       <created>1670777177319</created>
@@ -177,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670777457080</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercicios Resolvidos Parte 1">
+      <created>1670788632649</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670788632649</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicio01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio01" />
+    <MESSAGE value="Exercicios Resolvidos Parte 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios Resolvidos Parte 1" />
   </component>
 </project>
